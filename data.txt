@@ -1,0 +1,145 @@
+FTB Library
+No Fog
+Better Nether
+EntityCulling-Fabric
+NiftyCarts
+Trinkets
+Let Me Despawn
+EMI Enchanting
+Diagonal Walls
+Botarium
+GeckoLib 4
+Borderless Mining
+CICADA
+Xaero's Minimap
+Comforts
+AE2 EMI Crafting Integration
+Nature's Compass
+Ok Boomer
+Create: Bells & Whistles
+SuperMartijn642's Config Lib
+Sodium
+Searchables
+Fabric Language Kotlin
+Ecologics
+Fabric API
+[Let's Do] Vinery
+Lithium
+Packet Fixer
+GeckoLibIrisCompat
+Create Enchantment Industry
+Create Deco
+FTB Chunks
+Architectury
+Bookshelf
+leaky Mod
+Get It Together, Drops!
+[Let's Do] Bakery
+Easy Magic
+Xaero's World Map
+Magnum Torch
+Cull Less Leaves
+Carry On
+Observable
+Applied Energistics 2
+Athena
+Jade Addons
+Macaw's Trapdoors
+Display Case Mod
+Naturalist
+EMI
+EMI Loot
+Cerbons API
+Replay Mod
+Create: Steam 'n' Rails
+Sophisticated Core
+Necronomicon
+EMIffect
+Create: Copycats+
+Mod Menu
+[Let's Do] Brewery
+BotanyPots
+Cherished Worlds
+Geophilic
+Nvidium
+GJEB (GammaJustExtremeBright)
+SuperMartijn642's Core Lib
+ModernKeyBinding
+Isometric Renders
+ImmediatelyFast
+Macaw's Doors
+Accelerated Decay
+FXNT BitsNBobs [Fabric]
+Friends&Foes
+Freecam
+Create: Storage
+Macaw's Fences and Walls
+Tectonic
+Farmer's Delight
+[Let's Do] API
+FerriteCore
+Balm
+Sodium Extra
+Show Me Your Skin!
+Create
+Create: Big Contraptions
+ChoiceTheorem's Overhauled Village
+Create: New Age
+Vein Mining
+Player Animator
+3d-Skin-Layers
+Controlling For Fabric
+Resourceful Lib
+Forge Config API Port
+Sophisticated Backpacks
+Trowel
+Clumps
+Macaw's Bridges
+Straw Statues
+Decorative Blocks
+Templates 2
+MiniHUD
+TimeControl
+Diagonal Windows
+Kiwi Library
+Continuity
+Building Wands
+AE2WTLib
+Falling Leaves
+Macaw's Roofs
+Macaw's Lights and Lamps
+Cardinal Components API
+Mouse Tweaks
+FTB XMod Compat
+EMI Trades
+Handcrafted
+ModernFix
+Smoothchunk mod
+Iris Flywheel Compat
+You're in Grave Danger
+Immersive Paintings
+Create Diesel Generators
+Ash API
+oωo
+Macaw's Paths and Pavings
+Macaw's Windows
+Moonlight
+Diagonal Fences
+Better End
+Tom's Simple Storage Mod
+BCLib
+FTB Teams
+Reese's Sodium Options
+Waystones
+cupboard
+Cloth Config v11
+Cristel Lib
+Iris
+Create Crafts & Additions
+Jade
+Extra Mod Integrations
+MaLiLib
+Chipped
+Macaw's Furniture
+Puzzles Lib
+Indium
